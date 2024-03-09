@@ -13,7 +13,7 @@ Web application that allows viewing multimedia content such as videos.
 
 ## How to use
 
-To test the application, simply go to this [Link](https://be-mater-test-7r28qtlan-jmblack15.vercel.app/) and log in with the 
+To test the application, simply go to this [Link](https://be-mater-test.vercel.app/) and log in with the 
 email: test@test.com
 password: test1234.
 
@@ -24,7 +24,7 @@ password: test1234.
 ## Links
 
 - Solution URL: [Code](https://github.com/jmblack15/beMater-TEST)
-- Live Site URL: [Live](https://be-mater-test-7r28qtlan-jmblack15.vercel.app/)
+- Live Site URL: [Live](https://be-mater-test.vercel.app/)
 
 ## Built with
 
