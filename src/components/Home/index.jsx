@@ -10,7 +10,7 @@ const Home = () => {
   const getMovies = async () => {
     setIsLoading(true);
     try {
-      const response = await fetch('https://api.jsonbin.io/v3/b/65ebc30adc74654018aff83d');
+      const response = await fetch('https://api.jsonbin.io/v3/b/65ec084f266cfc3fde95d25b');
       const data = await response.json();
       setMovies(data.record.movies);
     } catch (error) {
@@ -22,8 +22,6 @@ const Home = () => {
   useEffect(() => {
     getMovies();
   }, []);
-
-  console.log(movies);
 
   return (
     <section className={styles.home}>
