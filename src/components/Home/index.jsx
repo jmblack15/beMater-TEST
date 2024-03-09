@@ -10,9 +10,9 @@ const Home = () => {
   const getMovies = async () => {
     setIsLoading(true);
     try {
-      const response = await fetch('../../../movies.json');
+      const response = await fetch('https://api.jsonbin.io/v3/b/65ebc30adc74654018aff83d');
       const data = await response.json();
-      setMovies(data.movies);
+      setMovies(data.record.movies);
     } catch (error) {
       console.log(error);
     }
