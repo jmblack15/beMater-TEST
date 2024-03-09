@@ -1,0 +1,119 @@
+{
+  "movies": [
+    {
+      "type": "Accion",
+      "movies": [
+        {
+          "title": "Movie Title 1",
+          "director": "Director Name 1",
+          "year": 2020,
+          "rating": 8.5
+        },
+        {
+          "title": "Movie Title 2",
+          "director": "Director Name 2",
+          "year": 2019,
+          "rating": 7.8
+        },
+        {
+          "title": "Movie Title 3",
+          "director": "Director Name 3",
+          "year": 2018,
+          "rating": 7.2
+        }
+      ]
+    },
+    {
+      "type": "Comedia",
+      "movies": [
+        {
+          "title": "Movie Title 4",
+          "director": "Director Name 4",
+          "year": 2020,
+          "rating": 8.0
+        },
+        {
+          "title": "Movie Title 5",
+          "director": "Director Name 5",
+          "year": 2019,
+          "rating": 7.5
+        },
+        {
+          "title": "Movie Title 6",
+          "director": "Director Name 6",
+          "year": 2018,
+          "rating": 7.0
+        }
+      ]
+    },
+    {
+      "type": "Drama",
+      "movies": [
+        {
+          "title": "Movie Title 7",
+          "director": "Director Name 7",
+          "year": 2020,
+          "rating": 8.5
+        },
+        {
+          "title": "Movie Title 8",
+          "director": "Director Name 8",
+          "year": 2019,
+          "rating": 7.8
+        },
+        {
+          "title": "Movie Title 9",
+          "director": "Director Name 9",
+          "year": 2018,
+          "rating": 7.2
+        }
+      ]
+    },
+    {
+      "type": "Ciencia ficción",
+      "movies": [
+        {
+          "title": "Movie Title 10",
+          "director": "Director Name 10",
+          "year": 2020,
+          "rating": 8.5
+        },
+        {
+          "title": "Movie Title 11",
+          "director": "Director Name 11",
+          "year": 2019,
+          "rating": 7.8
+        },
+        {
+          "title": "Movie Title 12",
+          "director": "Director Name 12",
+          "year": 2018,
+          "rating": 7.2
+        }
+      ]
+    },
+    {
+      "type": "Animación",
+      "movies": [
+        {
+          "title": "Movie Title 13",
+          "director": "Director Name 13",
+          "year": 2020,
+          "rating": 8.5
+        },
+        {
+          "title": "Movie Title 14",
+          "director": "Director Name 14",
+          "year": 2019,
+          "rating": 7.8
+        },
+        {
+          "title": "Movie Title 15",
+          "director": "Director Name 15",
+          "year": 2018,
+          "rating": 7.2
+        }
+      ]
+    }
+  ]
+}
