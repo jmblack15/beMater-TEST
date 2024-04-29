@@ -24,16 +24,15 @@ password: test1234.
 ## Links
 
 - Solution URL: [Code](https://github.com/jmblack15/beMater-TEST)
-- Live Site URL: [Live](https://be-mater-test.vercel.app/)
+- Live Site URL: [Live](https://nutri-shop.vercel.app/)
 
 ## Built with
 
 - Semantic HTML5 markup
-- CSS (BEM methodology)
-- Flexbox
+- Tailwind
+- Angular 17
 - CSS Grid
 - Mobile-first workflow
-- React
 - TypeScrip
 
 
